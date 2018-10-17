@@ -1,7 +1,10 @@
-This project is a clone of Google's deafult homepage using only HTML and CSS.
+# Google Search Results
+*Build the Google.com search results page | The Odin Project*
 
-The purpose of this project is to practice and apply what I have learned following The Odin Project's curriculum.
+My personal goal with this project is to reproduce the Google Search results page with as much detail as possible.
 
-My main goal is to feel confident in my ability to create the structure and style of a web page.
+## Demo
 
-From The Odin Project's [curriculum](http://www.theodinproject.com/web-development-101/html-css) 
+![Google search clone](https://s-media-cache-ak0.pinimg.com/originals/37/c2/53/37c253727a4fc275d1f4a414b9bda17a.gif)
+
+Check out the LIVE version <a href="https://ahollis1.github.io/google-results-page/">here.</a>
